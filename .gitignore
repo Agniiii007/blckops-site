@@ -3,7 +3,6 @@ node_modules/
 
 # builds & artifacts
 dist/
-public/
 
 # environment
 .env
